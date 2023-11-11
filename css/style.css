@@ -69,6 +69,7 @@ nav{
 .nav .logo img{
     height: 100%;
     vertical-align: top;
+    border-radius: 50%;
 }
 
 .enlaces-header{
@@ -397,6 +398,7 @@ footer{
 
 .partfooter img{
     width: 70%;
+    border-radius: 50%;
 }
 
 .partfooter a:hover{
